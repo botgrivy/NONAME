@@ -13,25 +13,25 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UC7flTES4TqWBLOPxk25_tsA'
-global.ig = 'https://www.instagram.com/p/CBqPkqsH344/?igshid=YmMyMTA2M2Y='
-global.mygc = 'wa.me/6281227607864'
-global.myweb = 'https://eclass.iainsalatiga.ac.id/app/upload/users/1/10892/my_files/XhiroMhonshine.html'
-global.linkgrupss = "https://chat.whatsapp.com/Fj5z7EXvGLVARaZ0cJF8rd"
+global.youtube = 'Ga ada'
+global.ig = 'https://www.instagram.com/gntrfrds'
+global.mygc = 'wa.me/62895386598484'
+global.myweb = 'https://gntrfrds.my.id'
+global.linkgrupss = "https://chat.whatsapp.com/EjyUZzniqQ21rpBDlZmzeW"
 global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.email = 'hendralubeck86@gmail.com'
+global.email = 'lelebalap65@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HENDRA LUBECK' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'NONAME' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HENDRA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = './Guntur_Sans' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'XXBOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'GUNTUR' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281227607864']
-global.premium = ['6281227607864']
-global.packname = 'HENDRA LUBECK'
-global.ownerr = ['NONAME']
-global.author = 'HENDRA LUBECK'
+global.owner = ['62895386598484']
+global.premium = ['62895386598484']
+global.packname = './Guntur_Sans'
+global.ownerr = ['XXBOT']
+global.author = './Guntur_Sans'
 global.sessionName = './sessionye/haikal'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
